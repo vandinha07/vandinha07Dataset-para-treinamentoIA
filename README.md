@@ -50,4 +50,4 @@ Este projeto está licenciado sob a MIT License.
 
 ---
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Vanda Sant'Ana
